@@ -32,35 +32,3 @@ ReactDOM.render(
     }),
     document.getElementById('app')
 );
-
-// function getResumeData() {
-//     return request
-//         .get(getResumePath())
-//         .end(function (error, response) {
-//             child: response.body
-//         }.bind(this));
-// }
-
-
-// class MyComponent extends React.Component {
-//     render() {
-//         // This must be exactly one element or it will warn.
-//         const children = this.props.children;
-//         return (
-//             <div>
-//                 "Hi"
-//                 {children}
-//             </div>
-//         );
-//     }
-// }
-
-// MyComponent.propTypes = {
-//     children: PropTypes.element.isRequired
-// };
-
-// // Renders "Hello, Stranger":
-// ReactDOM.render(
-//     <MyComponent children={getResumeData()} />,
-//     document.getElementById('app')
-// );
