@@ -42,7 +42,7 @@
     "eslint-plugin-react": "^6.9.0"
   },
   "engines": {
-    "node": "7.10.1"
+    "npm": ">=4.2.0"
   },
   "scripts": {
     "build:development": "webpack --config ./config/webpack.config.js --env=development --progress",

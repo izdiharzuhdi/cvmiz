@@ -8,7 +8,7 @@ const request = require('superagent');
 
 function getResumePath() {
     if (['localhost', '127.0.0.1'].indexOf(window.location.hostname) === -1) {
-        return '/resume.json';
+        return '/resume.example.json';
     }
     return '/resume.example.json';
 }
