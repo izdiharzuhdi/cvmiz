@@ -1,8 +1,8 @@
 'use strict';
 
 const React = require('react');
-// const PropTypes = React.PropTypes;
-import PropTypes from 'prop-types';
+const PropTypes = React.PropTypes;
+// import PropTypes from 'prop-types';
 
 const Link = React.createClass({
     propTypes: {

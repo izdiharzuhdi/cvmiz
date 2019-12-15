@@ -1,8 +1,8 @@
 'use strict';
 
 const React = require('react');
-// const PropTypes = React.PropTypes;
-import PropTypes from 'prop-types';
+const PropTypes = React.PropTypes;
+// import PropTypes from 'prop-types';
 
 // ----------------------------------------------------------------------------
 // COMPONENTS
@@ -168,3 +168,7 @@ module.exports.references = PropTypes.shape({
 module.exports.referencesSet = PropTypes.arrayOf(
     module.exports.references
 ).isRequired;
+
+module.exports.slides = PropTypes.shape({
+    number: module.exports.bulletPoints
+});

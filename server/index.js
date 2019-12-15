@@ -31,18 +31,16 @@ if (isDeveloping) {
         res.write(middleware.fileSystem.readFileSync(path.join(__dirname, '/../public/index.html')));
         res.end();
     });
-    app.get('/resume.example.json', (req, res) => {
-        res.sendFile(path.join(__dirname, 'resume.example.json'));
-    });
 } else {
     app.use(express.static(path.join(__dirname, '/../public')));
     app.get('/', (req, res) => {
         res.sendFile(path.join(__dirname, 'index.html'));
     });
-    app.get('/resume.example.json', (req, res) => {
-        res.sendFile(path.join(__dirname, 'resume.example.json'));
-    });
 }
+
+app.get('/resume.example.json', (req, res) => {
+    res.sendFile(path.join(__dirname, 'resume.example.json'));
+});
 
 app.listen(port, (err) => {
     if (err) {

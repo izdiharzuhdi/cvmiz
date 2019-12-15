@@ -1,10 +1,10 @@
 {
     "basics": {
         "name": "MOHD IZDIHAR ZUHDI ZULKEPLI",
-        "label": "INSTALLATION ANALYSIS ENGINEER",
+        "label": "SENIOR INSTALLATION ANALYSIS ENGINEER",
         "picture": "./images/MIZ.png",
         "email": "izdiharzuhdi@gmail.com",
-        "phone": "+60136743404",
+        "phone": "+4741386507",
         "website": "<WEBSITE>",
         "summary": [
             "Dedicated, industrious and delicate in work. He is an engineer with strong technical and organizational skills. Equipped with highly developed skills in implementation of effective solutions in engineering problems. He is adaptable, a quick learner, constantly being regarded as one of the best talent in the team and always comfortable to work in multinational environment.",
@@ -13,8 +13,8 @@
         "location": {
             "address": "<ADDRESS>",
             "postalCode": "<POSTAL_CODE>",
-            "city": "BATU CAVES",
-            "countryCode": "MALAYSIA",
+            "city": "OSLO",
+            "countryCode": "NORWAY",
             "region": "<REGION>"
         },
         "profiles": [
@@ -27,12 +27,12 @@
     },
     "work": [
         {
-            "company": "TechnipFMC, APAC Region",
-            "position": "INSTALLATION ANALYSIS ENGINEER",
+            "company": "TechnipFMC, Norway",
+            "position": "SENIOR INSTALLATION ANALYSIS ENGINEER",
             "website": "<COMPANY_WEBSITE>",
-            "startDate": "15.11.03",
+            "startDate": "19.03.02",
             "endDate": "PRESENT",
-            "summary": "Kuala Lumpur, Malaysia",
+            "summary": "Oslo, Norway",
             "highlights": [
                 "Provide specialist skills and knowledge in the areas related to engineering and analysis including design codes (DNVs, APIs and Internal Standards) related to Subsea engineering including installation engineering",
                 "Coordinate and engage in daily activities and schedule priorities for Subsea Engineering mainly using Orcaflex Software",
@@ -44,6 +44,19 @@
             ]
         },
         {
+            "company": "TechnipFMC, APAC Region",
+            "position": "INSTALLATION ANALYSIS ENGINEER",
+            "website": "<COMPANY_WEBSITE>",
+            "startDate": "15.11.13",
+            "endDate": "19.03.02",
+            "summary": "Kuala Lumpur, Malaysia",
+            "highlights": [
+                "Perform daily installation analysis activities to support Project Engineer with developing methods and procedures",
+                "Interface with other disciplines to provide inputs for designs",
+                "Verifying safety and reliability of equipments for offshore campaign"
+            ]
+        },
+        {
             "company": "Technip, APAC Region",
             "position": "GRADUATE SUBSEA ENGINEER",
             "website": "<COMPANY_WEBSITE>",
@@ -52,10 +65,8 @@
             "summary": "Kuala Lumpur, Malaysia",
             "highlights": [
                 "Liaising with drawing office to produce rigging arrangements, deck layouts. vessel approach corridor.",
-                "Rigging design and calculations for umbilical installation",
                 "Perform readiness review for every offshore installation operation scopes (Umbilical, spools, jumpers, flying leads installation and pre-commissioning)",
-                "Participate in mobilisation and demobilisation of intallation vessel",
-                "Produce lift and recovery plan for Jumper Installation"
+                "Participate in mobilisation and demobilisation of intallation vessel"
             ]
         }
     ],
@@ -111,8 +122,16 @@
             "website": "<WEBSITE>",
             "summary": "Woodside Group, Australia",
             "image": {
-                "modal": "images/projects/GED.png",
-                "thumb": "images/projects/woodside.png"
+                "modal": "images/projects/GED/GED.png",
+                "thumb": "images/projects/GED/client.png",
+                "screenshot": [
+                    "images/projects/GED/1.png",
+                    "images/projects/GED/2.png",
+                    "images/projects/GED/3.png",
+                    "images/projects/GED/4.png",
+                    "images/projects/GED/5.png",
+                    "images/projects/GED/6.png"
+                ]
             },
             "startDate": "18.02.01",
             "endDate": "PRESENT",
@@ -120,11 +139,11 @@
                 "Lead Engineer for flexible pipelines and jumpers installation analysis scope",
                 "Responsible engineer to review flexible installation procedure",
                 "Responsible engineer to manage and interface with TechnipFMC Oceania (Perth) for installation analysis work scope covering:",
-                "18 nos flexible flowlines and jumpers – 2”, 6”, 8” and 11” flexible pipes" ,
+                "18 nos flexible flowlines and jumpers – 2”, 6”, 8” and 11” flexible pipes",
                 "2 nos flexible risers - 10” and 8” flexible risers",
                 "Various termination installation including Gooseneck, FLET, KOSCON, Unitech Connectors  and Midline connections",
                 "Various installation ancillaries including bend restrictor, bend stiffener, buoyancy and ballast modules, clump weights and subsea clamps",
-                "Lay over canyon crossing" ,
+                "Lay over canyon crossing",
                 "Riser lazy wave configuration"
             ]
         },
@@ -136,8 +155,14 @@
             "website": "<WEBSITE>",
             "summary": "Murphy oil, Malaysia",
             "image": {
-                "modal": "images/projects/BlockH.png",
-                "thumb": "images/projects/murphy.png"
+                "modal": "images/projects/BlockH/BlockH.png",
+                "thumb": "images/projects/BlockH/client.png",
+                "screenshot": [
+                    "images/projects/BlockH/client.png",
+                    "images/projects/BlockH/BlockH.png",
+                    "images/imgi.jpg",
+                    "images/background.jpg"
+                ]
             },
             "startDate": "17.02.01",
             "endDate": "PRESENT",
@@ -145,7 +170,6 @@
                 "Responsible engineer to perform in-place analysis work scope covering:",
                 "2 nos flexible risers (lazy wave configuration) – investigating Near, Far and Cross load cases",
                 "2 nos flexible flowlines"
-
             ]
         },
         {
@@ -156,8 +180,11 @@
             "website": "<WEBSITE>",
             "summary": "Petronas, Malaysia",
             "image": {
-                "modal": "images/projects/Bardegg.png",
-                "thumb": "images/projects/pet.png"
+                "modal": "images/projects/Bardegg/Bardegg.png",
+                "thumb": "images/projects/Bardegg/client.png",
+                "screenshot": [
+                    "images/projects/Bardegg/client.png"
+                ]
             },
             "startDate": "16.11.01",
             "endDate": "17.01.01",
@@ -165,7 +192,6 @@
                 "Responsible engineer to perform installation analysis work scope covering:",
                 "4 nos flexible flowlines – 8” and 10” flexible",
                 "Flexible product installation includes 1st end direct pull-in through J-tube, 2nd end pull-in through J-tube, Lay over subsea slippers, Lay over existing pipelines"
-
             ]
         },
         {
@@ -176,17 +202,19 @@
             "website": "<WEBSITE>",
             "summary": "Total E&P, Angola",
             "image": {
-                "modal": "images/projects/Kaombo.png",
-                "thumb": "images/projects/total.png"
+                "modal": "images/projects/Kaombo/Kaombo.png",
+                "thumb": "images/projects/Kaombo/client.png",
+                "screenshot": [
+                    "images/projects/Kaombo/client.png"
+                ]
             },
             "startDate": "16.07.01",
             "endDate": "16.11.01",
             "details": [
                 "Responsible engineer to manage and interface with TechnipFMC France and India for installation analysis work scope covering:",
-                "6 nos 14” Rigid spools installation" ,
-                "Lifting and lowering to splash zone analysis" ,
-                "Advanced modelling method using Python" 
-
+                "6 nos 14” Rigid spools installation",
+                "Lifting and lowering to splash zone analysis",
+                "Advanced modelling method using Python"
             ]
         },
         {
@@ -197,8 +225,11 @@
             "website": "<WEBSITE>",
             "summary": "Shell, Australia",
             "image": {
-                "modal": "images/projects/Prelude.png",
-                "thumb": "images/projects/shell.png"
+                "modal": "images/projects/Prelude/Prelude.png",
+                "thumb": "images/projects/Prelude/client.png",
+                "screenshot": [
+                    "images/projects/Prelude/client.png"
+                ]
             },
             "startDate": "16.03.01",
             "endDate": "16.11.01",
@@ -210,7 +241,6 @@
                 "1st end direct pull-in to Prelude FLNG, Lazy wave configuration and layaway ",
                 "Various termination installation including Cobrahead, Blind lay and subsea pulling head ",
                 "Various installation ancillaries including bend restrictor, bend stiffener, buoyancy and ballast modules, clump weights and dead man anchor"
-
             ]
         },
         {
@@ -221,8 +251,12 @@
             "website": "<WEBSITE>",
             "summary": "ENI, Indonesia",
             "image": {
-                "modal": "images/projects/JKK.png",
-                "thumb": "images/projects/eni.png"
+                "modal": "images/projects/JKK/JKK.png",
+                "thumb": "images/projects/JKK/client.png",
+                "screenshot": [
+                    "images/projects/JKK/client.png",
+                    "images/projects/JKK/1.png"
+                ]
             },
             "startDate": "15.11.01",
             "endDate": "16.03.01",
@@ -232,7 +266,6 @@
                 "7 nos infield umbilicals",
                 "Various termination installation including Junction box, Midline connections, PLR, Goosenecks and UTA",
                 "Lay on escarpment & free span rectification"
-
             ]
         },
         {
@@ -243,8 +276,12 @@
             "website": "<WEBSITE>",
             "summary": "Petronas, Malaysia",
             "image": {
-                "modal": "images/projects/Kanowit.png",
-                "thumb": "images/projects/pet.png"
+                "modal": "images/projects/Kanowit/Kanowit.png",
+                "thumb": "images/projects/Kanowit/client.png",
+                "screenshot": [
+                    "images/projects/Kanowit/1.png",
+                    "images/projects/Kanowit/2.png"
+                ]
             },
             "startDate": "14.11.01",
             "endDate": "15.11.01",
@@ -253,7 +290,6 @@
                 "1 nos flexible flowline – 10”",
                 "Various termination installation including Pulling Head and PLET.",
                 "PLET, 28” J-tube and Concrete mattress deployment through splash zone"
-
             ]
         },
         {
@@ -264,8 +300,11 @@
             "website": "<WEBSITE>",
             "summary": "CNOOC, China",
             "image": {
-                "modal": "images/projects/Panyu.png",
-                "thumb": "images/projects/cnooc.png"
+                "modal": "images/projects/Panyu/Panyu.png",
+                "thumb": "images/projects/Panyu/client.png",
+                "screenshot": [
+                    "images/projects/Panyu/client.png"
+                ]
             },
             "startDate": "14.03.01",
             "endDate": "14.11.01",
@@ -275,7 +314,6 @@
                 "Responsible engineer to produce 6nos rigid spools lift plan and riggings.",
                 "Responsible engineer to interface with vendor and procurement team for umbilical scope of installation.",
                 "Responsible engineer to produce deck layout for MCV Deep Orient, IK Merdeka and Su Ning 58 self propelled barge."
-
             ]
         }
     ],
@@ -287,30 +325,72 @@
                 "Past experience with softwares including Solidworks, ANSYS and Simul8, "
             ],
             "skillDetails": [
-                {"name": "0rcaflex","level": "95"},
-                {"name": "AutoCAD","level": "80"},
-                {"name": "MathCAD","level": "70"},
-                {"name": "MS Office Suite","level": "95"},
-                {"name": "Solidworks","level": "70"},
-                {"name": "ANSYS","level": "50"},
-                {"name": "Simul8","level": "50"}
+                {
+                    "name": "0rcaflex",
+                    "level": "95"
+                },
+                {
+                    "name": "AutoCAD",
+                    "level": "80"
+                },
+                {
+                    "name": "MathCAD",
+                    "level": "70"
+                },
+                {
+                    "name": "MS Office Suite",
+                    "level": "95"
+                },
+                {
+                    "name": "Solidworks",
+                    "level": "70"
+                },
+                {
+                    "name": "ANSYS",
+                    "level": "50"
+                },
+                {
+                    "name": "Simul8",
+                    "level": "50"
+                }
             ]
         },
         {
             "title": "PROGRAMMING SKILLS",
             "description": [
-                "Passionate programmer with broad range of knowledge in programming"],
+                "Passionate programmer with broad range of knowledge in programming"
+            ],
             "skillDetails": [
-                {"name": "Python","level": "90"},
-                {"name": "Javascript","level": "70"},
-                {"name": "ReactJS","level": "50"},
-                {"name": "CSS/HTML5","level": "50"},
-                {"name": "MongoDB","level": "70"},
-                {"name": "FORTRAN","level": "50"},
-                {"name": "C#/.Net","level": "65"}
+                {
+                    "name": "Python",
+                    "level": "90"
+                },
+                {
+                    "name": "Javascript",
+                    "level": "70"
+                },
+                {
+                    "name": "ReactJS",
+                    "level": "50"
+                },
+                {
+                    "name": "CSS/HTML5",
+                    "level": "50"
+                },
+                {
+                    "name": "MongoDB",
+                    "level": "70"
+                },
+                {
+                    "name": "FORTRAN",
+                    "level": "50"
+                },
+                {
+                    "name": "C#/.Net",
+                    "level": "65"
+                }
             ]
         }
-
     ],
     "languages": [
         {
@@ -347,5 +427,14 @@
             "company": "TechnipFMC, APAC Region",
             "reference": "He is capable, well organised, independent, proactive and a quick learner."
         }
-    ]
+    ],
+    "slides": {
+        "number":[
+            "images/slides/1.pdf",
+            "images/slides/2.pdf",
+            "images/slides/3.pdf"
+        ]
+    }
+        
+    
 }

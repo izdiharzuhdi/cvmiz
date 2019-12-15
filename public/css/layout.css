@@ -934,6 +934,67 @@ call-to-action .button {
 #testimonials blockquote cite a,
 #testimonials blockquote cite a:visited { color: #8B9798; border: none }
 
+/* ------------------------------------------------------------------
+/* h. Testimonials
+/* ------------------------------------------------------------------ */
+
+#slides {
+   /*background: #1F1F1F url(../images/background.jpg) no-repeat center right;*/
+   background: #2B2B2B;
+   min-height: 200px;
+   width: 100%;
+   overflow: hidden;
+}
+#slides .text-container {
+   padding-top: 96px;
+   padding-bottom: 66px;
+}
+#slides h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   color: #fff;
+}
+#slides h1 span { display: none; }
+#slides .header-col { padding-top: 9px; }
+#slides .header-col h1:before {
+   font-family: 'FontAwesome';
+   content: "\f10d";
+	padding-right: 10px;
+	font-size: 72px;
+   line-height: 72px;
+   text-align: left;
+   float: left;
+   color: #fff;
+}
+
+/*	Blockquotes */
+#slides blockquote {
+   margin: 0 0px 30px 0px;
+   padding-left: 0;
+   position: relative;
+   text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
+}
+#slides blockquote:before { content: none; }
+#slides blockquote p {
+   font-family: 'librebaskerville-italic', serif;
+   padding: 0;
+   font-size: 18px;
+   line-height: 48px;
+   color: #fff
+}
+#slides blockquote cite {
+   display: block;
+   font-size: 12px;
+   font-style: normal;
+   line-height: 18px;
+   color: #fff;
+}
+#slides blockquote cite:before { content: "\2014 \0020"; }
+#slides blockquote cite a,
+#slides blockquote cite a:visited { color: #8B9798; border: none }
+
+
 /* Flex Slider
 /* ------------------------------------------------------------------ */
 

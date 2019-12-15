@@ -1,8 +1,8 @@
 'use strict';
 
 const React = require('react');
-// const PropTypes = React.PropTypes;
-import PropTypes from 'prop-types';
+const PropTypes = React.PropTypes;
+// import PropTypes from 'prop-types';
 
 const request = require('superagent');
 
@@ -54,6 +54,7 @@ const Home = React.createClass({
                     skills={this.state.resume.skills}
                     languages={this.state.resume.languages}
                     projects={this.state.resume.projects}
+                    slides={this.state.resume.slides}
                     references={this.state.resume.references}/>
             </div>
         );

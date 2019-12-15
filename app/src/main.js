@@ -2,7 +2,8 @@
 
 const ReactDOM = require('react-dom');
 const React = require('react');
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
+const PropTypes = React.PropTypes;
 const Routes = require('./routes');
 const request = require('superagent');
 
@@ -21,6 +22,7 @@ function getNavigation() {
         education: 'Education',
         skill: 'Skills',
         portfolio: 'Projects',
+        slides: 'Slides',
         testimonials: 'References'
     };
 }

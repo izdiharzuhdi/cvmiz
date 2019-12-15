@@ -1,8 +1,8 @@
 'use strict';
 
 const React = require('react');
-// const PropTypes = React.PropTypes;
-import PropTypes from 'prop-types';
+const PropTypes = React.PropTypes;
+// import PropTypes from 'prop-types';
 const ReactCSSTransitionGroup = require('react-addons-css-transition-group');
 
 const Main = React.createClass({
