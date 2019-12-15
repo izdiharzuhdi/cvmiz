@@ -1,9 +1,9 @@
 'use strict';
 
 const React = require('react');
-// const PropTypes = React.PropTypes;
+const PropTypes = React.PropTypes;
 
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 
 const ResumePropTypes = require('../../prop_types/resume');
 
@@ -85,7 +85,7 @@ const Skills = React.createClass({
     propTypes: {
         content: PropTypes.shape({
             skills: ResumePropTypes.skillsSet,
-            languages: ResumePropTypes.languagesSet
+            // languages: ResumePropTypes.languagesSet
         }).isRequired
     },
 
@@ -108,9 +108,9 @@ const Skills = React.createClass({
                                     summary={skill.description}/>
                             );
                         })}
-                        {/*
-                            <Skill title='Languages' content={this.props.content.languages}/>
-                        */}
+                        
+                            {/* <Skill title='Languages' content={this.props.content.languages}/> */}
+                       
                     </div>
                 </div>
             </section>
