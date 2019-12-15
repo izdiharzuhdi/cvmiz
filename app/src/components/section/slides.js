@@ -36,8 +36,8 @@ const References = React.createClass({
             <section id='slides'>
                 <div className='text-container'>
                     <div className='row'>
-                            <div>{this.props.content.pdf}</div>
-                            {/* <Carousel
+                            {/* <div>{this.props.content.pdf}</div> */}
+                            <Carousel
                             // autoplay={carouselConfig.autoplay}
                             // decorators={carouselConfig.decorators}
                             // wrapAround={carouselConfig.wrapAround}
@@ -49,7 +49,7 @@ const References = React.createClass({
                                         <Entry key={index} entry={entry} />
                                     );
                                 })}
-                            </Carousel> */}
+                            </Carousel>
                     </div>
                 </div>
             </section>
