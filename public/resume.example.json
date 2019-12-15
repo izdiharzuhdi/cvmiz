@@ -395,11 +395,12 @@
         }
     ],
     "slides": {
-        "pdf": [
-            "images/projects/Kanowit/Kanowit.png",
-            "images/projects/JKK/JKK.png",
-            "images/projects/Kaombo/Kaombo.png",
-            "images/slides/2.pdf"
+        // "pdf": [
+        //     "images/projects/Kanowit/Kanowit.png",
+        //     "images/projects/JKK/JKK.png",
+        //     "images/projects/Kaombo/Kaombo.png"
+            "images/slides/2.pdf",
+            "images/slides/3.pdf"
         ]
     }
         
