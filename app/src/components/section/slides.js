@@ -36,7 +36,6 @@ const References = React.createClass({
             <section id='slides'>
                 <div className='text-container'>
                     <div className='row'>
-                        {/* <div className='flexslider'> */}
                             <Carousel
                             // autoplay={carouselConfig.autoplay}
                             // decorators={carouselConfig.decorators}
@@ -50,7 +49,6 @@ const References = React.createClass({
                                     );
                                 })}
                             </Carousel>
-                        {/* </div> */}
                     </div>
                 </div>
             </section>
