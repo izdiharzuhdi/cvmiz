@@ -1,6 +1,4 @@
 'use strict';
-import {PDFtoIMG} from 'react-pdf-to-image';
-
 const React = require('react');
 const Carousel = require('nuka-carousel');
 
