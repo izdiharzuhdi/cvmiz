@@ -14,7 +14,8 @@ const Entry = React.createClass({
     render: function () {
         return (
             <div>
-                <img src={this.props.entry}/>
+                {this.props.entry}
+                {/* <img src={this.props.entry}/> */}
             </div>
         );
     }
