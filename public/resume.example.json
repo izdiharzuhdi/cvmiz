@@ -122,19 +122,10 @@
             "website": "<WEBSITE>",
             "summary": "Woodside Group, Australia",
             "image": {
-                "modal": "images/projects/GED/GED.png",
-                "thumb": "images/projects/GED/client.png",
-                "screenshot": [
-                    "images/projects/GED/1.png",
-                    "images/projects/GED/2.png",
-                    "images/projects/GED/3.png",
-                    "images/projects/GED/4.png",
-                    "images/projects/GED/5.png",
-                    "images/projects/GED/6.png"
-                ]
+                "thumb": "images/projects/GED/client.png"
             },
             "startDate": "18.02.01",
-            "endDate": "PRESENT",
+            "endDate": "19.10.01",
             "details": [
                 "Lead Engineer for flexible pipelines and jumpers installation analysis scope",
                 "Responsible engineer to review flexible installation procedure",
@@ -155,18 +146,14 @@
             "website": "<WEBSITE>",
             "summary": "Murphy oil, Malaysia",
             "image": {
-                "modal": "images/projects/BlockH/BlockH.png",
-                "thumb": "images/projects/BlockH/client.png",
-                "screenshot": [
-                    "images/projects/BlockH/client.png",
-                    "images/projects/BlockH/BlockH.png",
-                    "images/imgi.jpg",
-                    "images/background.jpg"
-                ]
+                "thumb": "images/projects/BlockH/client.png"
             },
             "startDate": "17.02.01",
-            "endDate": "PRESENT",
+            "endDate": "19.02.01",
             "details": [
+                "Responsible engineer to flexible pipelines and jumpers installation analysis scope",
+                "Responsible engineer to guide and review umbilical installation analysis scope",
+                "Responsible engineer to review flexible installation procedure",
                 "Responsible engineer to perform in-place analysis work scope covering:",
                 "2 nos flexible risers (lazy wave configuration) – investigating Near, Far and Cross load cases",
                 "2 nos flexible flowlines"
@@ -180,11 +167,7 @@
             "website": "<WEBSITE>",
             "summary": "Petronas, Malaysia",
             "image": {
-                "modal": "images/projects/Bardegg/Bardegg.png",
-                "thumb": "images/projects/Bardegg/client.png",
-                "screenshot": [
-                    "images/projects/Bardegg/client.png"
-                ]
+                "thumb": "images/projects/Bardegg/client.png"
             },
             "startDate": "16.11.01",
             "endDate": "17.01.01",
@@ -202,11 +185,7 @@
             "website": "<WEBSITE>",
             "summary": "Total E&P, Angola",
             "image": {
-                "modal": "images/projects/Kaombo/Kaombo.png",
-                "thumb": "images/projects/Kaombo/client.png",
-                "screenshot": [
-                    "images/projects/Kaombo/client.png"
-                ]
+                "thumb": "images/projects/Kaombo/client.png"
             },
             "startDate": "16.07.01",
             "endDate": "16.11.01",
@@ -225,11 +204,7 @@
             "website": "<WEBSITE>",
             "summary": "Shell, Australia",
             "image": {
-                "modal": "images/projects/Prelude/Prelude.png",
-                "thumb": "images/projects/Prelude/client.png",
-                "screenshot": [
-                    "images/projects/Prelude/client.png"
-                ]
+                "thumb": "images/projects/Prelude/client.png"
             },
             "startDate": "16.03.01",
             "endDate": "16.11.01",
@@ -251,12 +226,7 @@
             "website": "<WEBSITE>",
             "summary": "ENI, Indonesia",
             "image": {
-                "modal": "images/projects/JKK/JKK.png",
-                "thumb": "images/projects/JKK/client.png",
-                "screenshot": [
-                    "images/projects/JKK/client.png",
-                    "images/projects/JKK/1.png"
-                ]
+                "thumb": "images/projects/JKK/client.png"
             },
             "startDate": "15.11.01",
             "endDate": "16.03.01",
@@ -276,12 +246,7 @@
             "website": "<WEBSITE>",
             "summary": "Petronas, Malaysia",
             "image": {
-                "modal": "images/projects/Kanowit/Kanowit.png",
-                "thumb": "images/projects/Kanowit/client.png",
-                "screenshot": [
-                    "images/projects/Kanowit/1.png",
-                    "images/projects/Kanowit/2.png"
-                ]
+                "thumb": "images/projects/Kanowit/client.png"
             },
             "startDate": "14.11.01",
             "endDate": "15.11.01",
@@ -300,11 +265,7 @@
             "website": "<WEBSITE>",
             "summary": "CNOOC, China",
             "image": {
-                "modal": "images/projects/Panyu/Panyu.png",
-                "thumb": "images/projects/Panyu/client.png",
-                "screenshot": [
-                    "images/projects/Panyu/client.png"
-                ]
+                "thumb": "images/projects/Panyu/client.png"
             },
             "startDate": "14.03.01",
             "endDate": "14.11.01",
@@ -430,9 +391,29 @@
     ],
     "slides": {
         "number":[
-            "images/slides/1.jpg",
-            "images/slides/2.jpg",
-            "images/slides/3.jpg"
+            "images/slides/slide1.jpg",
+            "images/slides/slide2.jpg",
+            "images/slides/slide3.jpg",
+            "images/slides/slide4.jpg",
+            "images/slides/slide5.jpg",
+            "images/slides/slide6.jpg",
+            "images/slides/slide7.jpg",
+            "images/slides/slide8.jpg",
+            "images/slides/slide9.jpg",
+            "images/slides/slide10.jpg",
+            "images/slides/slide11.jpg",
+            "images/slides/slide12.jpg",
+            "images/slides/slide13.jpg",
+            "images/slides/slide14.jpg",
+            "images/slides/slide15.jpg",
+            "images/slides/slide16.jpg",
+            "images/slides/slide17.jpg",
+            "images/slides/slide18.jpg",
+            "images/slides/slide19.jpg",
+            "images/slides/slide20.jpg",
+            "images/slides/slide21.jpg",
+            "images/slides/slide22.jpg",
+            "images/slides/slide23.jpg"
         ]
     }
         

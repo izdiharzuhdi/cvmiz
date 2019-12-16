@@ -945,6 +945,11 @@ call-to-action .button {
    width: 100%;
    overflow: hidden;
 }
+#slides img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
 #slides .text-container {
    padding-top: 96px;
    padding-bottom: 66px;

@@ -30,7 +30,6 @@ module.exports.bulletPoints = PropTypes.arrayOf(
 ).isRequired;
 
 module.exports.image = PropTypes.shape({
-    modal: PropTypes.string.isRequired,
     thumb: PropTypes.string.isRequired
 }).isRequired;
 

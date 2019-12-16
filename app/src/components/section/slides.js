@@ -36,20 +36,19 @@ const References = React.createClass({
         return (
             <section id='slides'>
                 <div className='text-container'>
-                    <Carousel
-                        // autoplay={carouselConfig.autoplay}
-                        // decorators={carouselConfig.decorators}
-                        // wrapAround={carouselConfig.wrapAround}
-                        cellAlign='center'
-                        heightMode='current'
-                    >
-                        {this.props.content.number.map(function (entry, index) {
-                            return (
-                                <Entry key={index} entry={entry} />
-                            );
-                        })}
-                    </Carousel>
-                           
+                        <Carousel
+                            // autoplay={carouselConfig.autoplay}
+                            // decorators={carouselConfig.decorators}
+                            // wrapAround={carouselConfig.wrapAround}
+                            cellAlign='center'
+                            heightMode='current'
+                        >
+                            {this.props.content.number.map(function (entry, index) {
+                                return (
+                                    <Entry key={index} entry={entry} />
+                                );
+                            })}
+                        </Carousel>
                 </div>
             </section>
         );
