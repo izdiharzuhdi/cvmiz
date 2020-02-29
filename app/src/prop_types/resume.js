@@ -126,8 +126,7 @@ module.exports.projectsSet = PropTypes.arrayOf(
 
 module.exports.skillDetails = PropTypes.shape({
     name: PropTypes.string.isRequired,
-    level: PropTypes.string.isRequired,
-    keywords: module.exports.bulletPoints
+    level: PropTypes.string.isRequired
 });
 module.exports.skillDetailsSet = PropTypes.arrayOf(
     module.exports.skillDetails

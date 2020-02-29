@@ -9,7 +9,7 @@ const ResumePropTypes = require('../../prop_types/resume');
 
 const Entry = React.createClass({
     propTypes: {
-        entry: ResumePropTypes.languages
+        entry: ResumePropTypes.skillDetails
     },
 
     getInitialState: function () {
@@ -51,12 +51,6 @@ const Entry = React.createClass({
 });
 
 const Skill = React.createClass({
-    propTypes: {
-        title: PropTypes.string.isRequired,
-        content: ResumePropTypes.languagesSet,
-        summary: PropTypes.arrayOf(PropTypes.string).isRequired
-    },
-
     render: function () {
         const summary = this.props.summary.map(function (point, index) {
             return (
@@ -85,7 +79,7 @@ const Skills = React.createClass({
     propTypes: {
         content: PropTypes.shape({
             skills: ResumePropTypes.skillsSet,
-            // languages: ResumePropTypes.languagesSet
+            languages: ResumePropTypes.languagesSet
         }).isRequired
     },
 
