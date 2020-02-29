@@ -32,11 +32,9 @@ const References = React.createClass({
                 component: React.createClass({
                     render() {
                         return (
-                            <button
-                                onClick={this.props.previousSlide}>
-                                    <i className="fa fa-arrow-right" />
-                                
-                  </button>
+                            <button onClick={this.props.previousSlide}>
+                                <i className="fa fa-angle-left" />
+                            </button>
                         )
                     }
                 }),
@@ -49,10 +47,9 @@ const References = React.createClass({
                 component: React.createClass({
                     render() {
                         return (
-                            <button
-                                onClick={this.props.NextSlide}>
-                                Next Slide
-                </button>
+                            <button onClick={this.props.nextSlide}>
+                                <i className="fa fa-angle-right" />
+                            </button>
                         )
                     }
                 }),
@@ -75,26 +72,9 @@ const References = React.createClass({
                 <div className='text-container'>
                     <Carousel
                         // autoplay={carouselConfig.autoplay}
-                        // decorators={carouselConfig.decorators}
+                        decorators={carouselConfig.decorators}
                         // wrapAround={carouselConfig.wrapAround}
-                        // cellAlign='center'
-                        // heightMode='current'
-                        // renderBottomCenterControls={false}
-                        // renderCenterLeftControls={({ previousSlide }) => (
-                        //     <button onClick={previousSlide}> XXX
-                        //     </button>
-                        // )}
-                        // renderBottomRightControls={({ nextSlide }) => (
-                        //     <button onClick={nextSlide}>
-                        //         <i className="fa fa-arrow-right" />
-                        //     </button>
-                        // )}
-                        renderCenterLeftControls={({ previousSlide }) => (
-                            <button onClick={previousSlide}>X</button>
-                        )}
-                        renderCenterRightControls={({ nextSlide }) => (
-                            <button onClick={nextSlide}>Y</button>
-                        )}
+                        cellAlign='center'
                     >
                         {this.props.content.number.map(function (entry, index) {
                             return (
